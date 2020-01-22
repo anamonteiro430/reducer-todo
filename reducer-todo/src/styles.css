@@ -1,0 +1,21 @@
+.false {
+	background: green;
+	color: red;
+}
+
+.true {
+	background: red;
+}
+
+.todo {
+	border: 1px solid #3423fe;
+	margin: 3%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+p {
+	font-size: 0.7em;
+	color: #e345;
+}
